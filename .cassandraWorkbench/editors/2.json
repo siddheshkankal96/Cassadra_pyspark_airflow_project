@@ -1,0 +1,1 @@
+{"id":"m6sKWM2Ohx3Y0Gqo","body":"DELETE FROM cricket.cricket_data\nWHERE id='';","filename":"script_1.cql","clusterName":"Cluster PasswordAuthenticator","keyspace":"cricket","source":"action","modified":true}

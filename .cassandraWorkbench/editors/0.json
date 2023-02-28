@@ -1,0 +1,1 @@
+{"id":"ZGriYUX9HsFL6gO0","body":"  SELECT id, date_, hassquad, matchended, matchstarted, matchtype, name,\n  series_id, status, venue\n  FROM cricket.cricket_data\n  WHERE id='65d48a43-f74d-43b9-b67b-5489c73e7b70'\n  LIMIT 500;","filename":"script_2.cql","clusterName":"Cluster PasswordAuthenticator","keyspace":"cricket","source":"action","modified":true}

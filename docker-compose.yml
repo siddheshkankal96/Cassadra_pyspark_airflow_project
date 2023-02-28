@@ -1,0 +1,80 @@
+version: '3.7'
+networks:
+  ineuron:
+    driver: bridge
+
+services:
+
+  cassandra:
+    image: docker.io/bitnami/cassandra:4.1
+    ports:
+      - '7000:7000'
+      - '9042:9042'
+      - '8082:8080'
+    volumes:
+      - './cassandra_data:/bitnami'
+      # - './docker-entrypoint-initdb.d:/docker-entrypoint-initdb.d'
+      - ./spark-cassandra-connector_2.12-2.5.1.jar:/usr/local/airflow/spark_jars/spark-cassandra-connector_2.11-2.3.2.jar
+
+
+    environment:
+      - "CASSANDRA_CLUSTER_NAME=cassandra-cluster"
+      - CASSANDRA_SEEDS=cassandra
+      - CASSANDRA_PASSWORD_SEEDER=yes
+      - CASSANDRA_PASSWORD=cassandra
+    networks:
+      - ineuron
+
+
+  postgres:
+    image: postgres:9.6
+    environment:
+      - POSTGRES_USER=airflow
+      - POSTGRES_PASSWORD=airflow
+      - POSTGRES_DB=airflow
+    logging:
+      options:
+        max-size: 10m
+        max-file: "3"
+    networks:
+      - ineuron
+
+  webserver:
+    build: ./dockerfiles
+    restart: always
+    depends_on:
+      - postgres
+    environment:
+      - LOAD_EX=n
+      - EXECUTOR=Local
+    logging:
+      options:
+        max-size: 10m
+        max-file: "3"
+
+    volumes:
+      - ./dags:/usr/local/airflow/dags
+      - ./ip_files:/usr/local/airflow/ip_files
+      - ./op_files:/usr/local/airflow/op_files
+      # - ./config/airflow.cfg:/usr/local/airflow/airflow.cfg
+      - ./spark-cassandra-connector_2.12-2.5.1.jar:/usr/local/airflow/spark_jars/spark-cassandra-connector_2.11-2.3.2.jar
+    ports:
+      - "8080:8080"
+    command: webserver
+
+    networks:
+      - ineuron
+
+  # pyspark:
+  #   image: avnish327030/pyspark-3.2.1:latest
+  #   ports:
+  #     - "4040:4040"
+  #     - "4041:4041"
+  #     - "4042:4042"
+  #     - "4043:8080"
+  #   volumes:
+  #     - "./pyspark_data:/project"
+  #   networks:
+  #     - ineuron
+
+    

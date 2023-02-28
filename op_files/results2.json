@@ -1,0 +1,833 @@
+[
+      {
+            "id": "65d48a43-f74d-43b9-b67b-5489c73e7b70",
+            "name": "Limpopo vs Tuskers, Division 2",
+            "matchType": "test",
+            "status": "Day 1: Stumps - Tuskers trail by 202 runs",
+            "venue": "Polokwane Cricket Club, Polokwane",
+            "date": "2023-02-23",
+            "dateTimeGMT": "2023-02-23T08:00:00",
+            "teams": [
+                  "Limpopo",
+                  "Tuskers"
+            ],
+            "teamInfo": [
+                  {
+                        "name": "Limpopo",
+                        "shortname": "LIMPO",
+                        "img": "https://g.cricapi.com/img/teams/42-637991993542281273.webp"
+                  },
+                  {
+                        "name": "Tuskers",
+                        "shortname": "TUSKS",
+                        "img": "https://g.cricapi.com/img/teams/91-637987557431076140.webp"
+                  }
+            ],
+            "score": [
+                  {
+                        "r": 251,
+                        "w": 10,
+                        "o": 76.1,
+                        "inning": "Limpopo Inning 1"
+                  },
+                  {
+                        "r": 49,
+                        "w": 0,
+                        "o": 23,
+                        "inning": "Tuskers Inning 1"
+                  }
+            ],
+            "series_id": "5d591476-b27d-45f5-8f18-a73ab326664d",
+            "fantasyEnabled": true,
+            "bbbEnabled": false,
+            "hasSquad": true,
+            "matchStarted": true,
+            "matchEnded": false
+      },
+      {
+            "id": "cc5e7bb3-0fad-4ceb-a1c4-aa4b7887289e",
+            "name": "Eastern Cape vs Garden Route Badgers, Division 2",
+            "matchType": "test",
+            "status": "Day 1: Stumps - Eastern Cape trail by 43 runs",
+            "venue": "Buffalo Park, East London",
+            "date": "2023-02-23",
+            "dateTimeGMT": "2023-02-23T08:00:00",
+            "teams": [
+                  "Eastern Cape",
+                  "Garden Route Badgers"
+            ],
+            "teamInfo": [
+                  {
+                        "name": "Eastern Cape",
+                        "shortname": "ECAPE",
+                        "img": "https://h.cricapi.com/img/icon512.png"
+                  },
+                  {
+                        "name": "Garden Route Badgers",
+                        "shortname": "GRD",
+                        "img": "https://h.cricapi.com/img/icon512.png"
+                  }
+            ],
+            "score": [
+                  {
+                        "r": 165,
+                        "w": 10,
+                        "o": 49,
+                        "inning": "Garden Route Badgers Inning 1"
+                  },
+                  {
+                        "r": 122,
+                        "w": 2,
+                        "o": 42,
+                        "inning": "Eastern Cape Inning 1"
+                  }
+            ],
+            "series_id": "5d591476-b27d-45f5-8f18-a73ab326664d",
+            "fantasyEnabled": true,
+            "bbbEnabled": false,
+            "hasSquad": true,
+            "matchStarted": true,
+            "matchEnded": false
+      },
+      {
+            "id": "6c5f4150-5050-45a8-b970-7a305a6bffc9",
+            "name": "Namibia vs Nepal, 2nd Match",
+            "matchType": "odi",
+            "status": "No result (due to rain)",
+            "venue": "Wanderers Cricket Ground, Windhoek",
+            "date": "2022-12-02",
+            "dateTimeGMT": "2022-12-02T07:30:00",
+            "teams": [
+                  "Namibia",
+                  "Nepal"
+            ],
+            "teamInfo": [
+                  {
+                        "name": "Namibia",
+                        "shortname": "NAM",
+                        "img": "https://g.cricapi.com/img/teams/53-637877082656229722.webp"
+                  },
+                  {
+                        "name": "Nepal",
+                        "shortname": "NEP",
+                        "img": "https://g.cricapi.com/img/teams/54-637877084789981539.webp"
+                  }
+            ],
+            "score": [
+                  {
+                        "r": 197,
+                        "w": 10,
+                        "o": 49.5,
+                        "inning": "Nepal Inning 1"
+                  },
+                  {
+                        "r": 4,
+                        "w": 0,
+                        "o": 0.4,
+                        "inning": "Namibia Inning 1"
+                  }
+            ],
+            "series_id": "638e7c98-fe04-4c84-946e-699f0abdc00c",
+            "fantasyEnabled": true,
+            "bbbEnabled": true,
+            "hasSquad": true,
+            "matchStarted": true,
+            "matchEnded": false
+      },
+      {
+            "id": "75daaab6-b99e-4038-9bf2-2565ba7f49c1",
+            "name": "Nigeria vs Tanzania, 23rd Match",
+            "matchType": "t20",
+            "status": "No result (due to rain)",
+            "venue": "Gahanga International Cricket Stadium, Kigali City",
+            "date": "2022-12-08",
+            "dateTimeGMT": "2022-12-08T11:45:00",
+            "teams": [
+                  "Nigeria",
+                  "Tanzania"
+            ],
+            "teamInfo": [
+                  {
+                        "name": "Nigeria",
+                        "shortname": "NGA",
+                        "img": "https://g.cricapi.com/img/teams/635-637867646765235442.webp"
+                  },
+                  {
+                        "name": "Tanzania",
+                        "shortname": "TZA",
+                        "img": "https://g.cricapi.com/img/teams/660-637867438190984232.webp"
+                  }
+            ],
+            "score": [
+                  {
+                        "r": 101,
+                        "w": 10,
+                        "o": 19.4,
+                        "inning": "Nigeria Inning 1"
+                  },
+                  {
+                        "r": 19,
+                        "w": 3,
+                        "o": 4.3,
+                        "inning": "Tanzania Inning 1"
+                  }
+            ],
+            "series_id": "2103eee4-874f-4f5a-b90b-6d08204681d1",
+            "fantasyEnabled": true,
+            "bbbEnabled": false,
+            "hasSquad": true,
+            "matchStarted": true,
+            "matchEnded": false
+      },
+      {
+            "id": "846819d5-ce9f-4a9f-a638-a3ca9d29f766",
+            "name": "Cameroon vs Eswatini, 22nd Match",
+            "matchType": "t20",
+            "status": "No result (due to rain)",
+            "venue": "Integrated Polytechnic Regional Centre, Kigali City",
+            "date": "2022-12-08",
+            "dateTimeGMT": "2022-12-08T07:30:00",
+            "teams": [
+                  "Cameroon",
+                  "Eswatini"
+            ],
+            "teamInfo": [
+                  {
+                        "name": "Cameroon",
+                        "shortname": "CAM",
+                        "img": "https://g.cricapi.com/img/teams/2415-637992079740539457.webp"
+                  },
+                  {
+                        "name": "Eswatini",
+                        "shortname": "EWZ",
+                        "img": "https://g.cricapi.com/img/teams/602-637876983785379790.webp"
+                  }
+            ],
+            "score": [
+                  {
+                        "r": 112,
+                        "w": 6,
+                        "o": 13,
+                        "inning": "Eswatini Inning 1"
+                  }
+            ],
+            "series_id": "2103eee4-874f-4f5a-b90b-6d08204681d1",
+            "fantasyEnabled": true,
+            "bbbEnabled": false,
+            "hasSquad": true,
+            "matchStarted": true,
+            "matchEnded": false
+      },
+      {
+            "id": "b5eb178c-086a-4eb6-9859-d9bfff70529a",
+            "name": "Durban Super Giants vs Sunrisers Eastern Cape, 25th Match",
+            "matchType": "t20",
+            "status": "No result (due to rain)",
+            "venue": "Kingsmead, Durban",
+            "date": "2023-02-03",
+            "dateTimeGMT": "2023-02-03T15:30:00",
+            "teams": [
+                  "Durban Super Giants",
+                  "Sunrisers Eastern Cape"
+            ],
+            "teamInfo": [
+                  {
+                        "name": "Durban Super Giants",
+                        "shortname": "DSG",
+                        "img": "https://g.cricapi.com/img/teams/4125-638110226211044703.webp"
+                  },
+                  {
+                        "name": "Sunrisers Eastern Cape",
+                        "shortname": "SEC",
+                        "img": "https://g.cricapi.com/img/teams/4148-638109570024847936.webp"
+                  }
+            ],
+            "score": [
+                  {
+                        "r": 53,
+                        "w": 3,
+                        "o": 5.2,
+                        "inning": "Sunrisers Eastern Cape Inning 1"
+                  }
+            ],
+            "series_id": "9ee27942-3859-4b48-bc0c-954694117f28",
+            "fantasyEnabled": true,
+            "bbbEnabled": true,
+            "hasSquad": true,
+            "matchStarted": true,
+            "matchEnded": false
+      },
+      {
+            "id": "22218140-5756-4898-878f-e9f7bdcf2912",
+            "name": "Goa vs Haryana, Round 7, Elite Group C",
+            "matchType": "odi",
+            "status": "Match tied (VJD)",
+            "venue": "KSCA Cricket Ground, Alur",
+            "date": "2022-11-23",
+            "dateTimeGMT": "2022-11-23T03:30:00",
+            "teams": [
+                  "Goa",
+                  "Haryana"
+            ],
+            "teamInfo": [
+                  {
+                        "name": "Goa",
+                        "shortname": "GOA",
+                        "img": "https://g.cricapi.com/img/teams/26-637897792202678375.png"
+                  },
+                  {
+                        "name": "Haryana",
+                        "shortname": "HAR",
+                        "img": "https://g.cricapi.com/img/teams/28-637897793655542496.png"
+                  }
+            ],
+            "score": [
+                  {
+                        "r": 261,
+                        "w": 9,
+                        "o": 50,
+                        "inning": "Goa Inning 1"
+                  },
+                  {
+                        "r": 154,
+                        "w": 5,
+                        "o": 23,
+                        "inning": "Haryana Inning 1"
+                  }
+            ],
+            "series_id": "069215c9-f279-4c85-bf8f-bd560c8faac9",
+            "fantasyEnabled": true,
+            "bbbEnabled": false,
+            "hasSquad": true,
+            "matchStarted": true,
+            "matchEnded": false
+      },
+      {
+            "id": "a600a707-694d-45eb-a9ec-e436fd5425dd",
+            "name": "Bihar vs Tamil Nadu, Round 1, Elite Group C",
+            "matchType": "odi",
+            "status": "No Result - due to rain",
+            "venue": "KSCA Cricket (3) Ground, Alur",
+            "date": "2022-11-12",
+            "dateTimeGMT": "2022-11-12T03:30:00",
+            "teams": [
+                  "Bihar",
+                  "Tamil Nadu"
+            ],
+            "teamInfo": [
+                  {
+                        "name": "Bihar",
+                        "shortname": "BIH",
+                        "img": "https://g.cricapi.com/img/teams/13-637897789593616439.png"
+                  },
+                  {
+                        "name": "Tamil Nadu",
+                        "shortname": "TN",
+                        "img": "https://g.cricapi.com/img/teams/87-637897804625426972.png"
+                  }
+            ],
+            "score": [
+                  {
+                        "r": 106,
+                        "w": 2,
+                        "o": 17.1,
+                        "inning": "Tamil Nadu Inning 1"
+                  }
+            ],
+            "series_id": "069215c9-f279-4c85-bf8f-bd560c8faac9",
+            "fantasyEnabled": true,
+            "bbbEnabled": false,
+            "hasSquad": true,
+            "matchStarted": true,
+            "matchEnded": false
+      },
+      {
+            "id": "b72f041f-e299-4d89-b453-a4e65371b996",
+            "name": "Arunachal Pradesh vs Chhattisgarh, Round 1, Elite Group C",
+            "matchType": "odi",
+            "status": "No result - due to rain",
+            "venue": "M.Chinnaswamy Stadium, Bengaluru",
+            "date": "2022-11-12",
+            "dateTimeGMT": "2022-11-12T03:30:00",
+            "teams": [
+                  "Arunachal Pradesh",
+                  "Chhattisgarh"
+            ],
+            "teamInfo": [
+                  {
+                        "name": "Arunachal Pradesh",
+                        "shortname": "ARNP",
+                        "img": "https://g.cricapi.com/img/teams/3-637897787732978973.png"
+                  },
+                  {
+                        "name": "Chhattisgarh",
+                        "shortname": "CG",
+                        "img": "https://g.cricapi.com/img/teams/18-637897790441171438.png"
+                  }
+            ],
+            "score": [
+                  {
+                        "r": 137,
+                        "w": 4,
+                        "o": 21,
+                        "inning": "Chhattisgarh Inning 1"
+                  },
+                  {
+                        "r": 35,
+                        "w": 2,
+                        "o": 8.1,
+                        "inning": "Arunachal Pradesh Inning 1"
+                  }
+            ],
+            "series_id": "069215c9-f279-4c85-bf8f-bd560c8faac9",
+            "fantasyEnabled": true,
+            "bbbEnabled": false,
+            "hasSquad": true,
+            "matchStarted": true,
+            "matchEnded": false
+      },
+      {
+            "id": "5e34b5df-8017-4aee-a266-a76e7f1c833a",
+            "name": "Queensland vs New South Wales, 24th Match",
+            "matchType": "test",
+            "status": "Day 4: 2nd Session - Queensland need 108 runs",
+            "venue": "The Gabba, Brisbane",
+            "date": "2023-02-21",
+            "dateTimeGMT": "2023-02-21T00:00:00",
+            "teams": [
+                  "Queensland",
+                  "New South Wales"
+            ],
+            "teamInfo": [
+                  {
+                        "name": "New South Wales",
+                        "shortname": "NSW",
+                        "img": "https://g.cricapi.com/img/teams/56-637991992698313262.webp"
+                  },
+                  {
+                        "name": "Queensland",
+                        "shortname": "QL",
+                        "img": "https://g.cricapi.com/img/teams/73-637992667453177840.webp"
+                  }
+            ],
+            "score": [
+                  {
+                        "r": 320,
+                        "w": 10,
+                        "o": 97.4,
+                        "inning": "New South Wales Inning 1"
+                  },
+                  {
+                        "r": 304,
+                        "w": 10,
+                        "o": 95.1,
+                        "inning": "Queensland Inning 1"
+                  },
+                  {
+                        "r": 216,
+                        "w": 10,
+                        "o": 64.5,
+                        "inning": "New South Wales Inning 2"
+                  },
+                  {
+                        "r": 125,
+                        "w": 4,
+                        "o": 51.1,
+                        "inning": "Queensland Inning 2"
+                  }
+            ],
+            "series_id": "1406464f-cdd1-4213-9e6f-217da470dcff",
+            "fantasyEnabled": true,
+            "bbbEnabled": false,
+            "hasSquad": true,
+            "matchStarted": true,
+            "matchEnded": false
+      },
+      {
+            "id": "f788a1cc-29b6-45e5-92d3-cf9f636474f6",
+            "name": "Knights vs Lions, 13th Match",
+            "matchType": "t20",
+            "status": "No result (due to rain)",
+            "venue": "Senwes Park, Potchefstroom",
+            "date": "2022-10-23",
+            "dateTimeGMT": "2022-10-23T08:00:00",
+            "teams": [
+                  "Knights",
+                  "Lions"
+            ],
+            "teamInfo": [
+                  {
+                        "name": "Knights",
+                        "shortname": "KNG",
+                        "img": "https://g.cricapi.com/img/teams/40-637992688759741358.webp"
+                  },
+                  {
+                        "name": "Lions",
+                        "shortname": "LIONS",
+                        "img": "https://g.cricapi.com/img/teams/43-638016114998237773.webp"
+                  }
+            ],
+            "score": [
+                  {
+                        "r": 158,
+                        "w": 9,
+                        "o": 20,
+                        "inning": "Lions Inning 1"
+                  }
+            ],
+            "series_id": "58a2c451-c43a-4a7b-b2bc-f228727a4361",
+            "fantasyEnabled": true,
+            "bbbEnabled": true,
+            "hasSquad": true,
+            "matchStarted": true,
+            "matchEnded": false
+      },
+      {
+            "id": "b558082d-aee9-4bcb-9bb2-1754e1691af6",
+            "name": "Sri Lanka vs Afghanistan, 2nd ODI",
+            "matchType": "odi",
+            "status": "No result - due to rain",
+            "venue": "Pallekele International Cricket Stadium, Pallekele",
+            "date": "2022-11-27",
+            "dateTimeGMT": "2022-11-27T09:00:00",
+            "teams": [
+                  "Sri Lanka",
+                  "Afghanistan"
+            ],
+            "teamInfo": [
+                  {
+                        "name": "Afghanistan",
+                        "shortname": "AFG",
+                        "img": "https://g.cricapi.com/img/teams/1-637877075587179422.webp"
+                  },
+                  {
+                        "name": "Sri Lanka",
+                        "shortname": "SL",
+                        "img": "https://g.cricapi.com/img/teams/86-637877070226216908.webp"
+                  }
+            ],
+            "score": [
+                  {
+                        "r": 228,
+                        "w": 10,
+                        "o": 48.2,
+                        "inning": "Afghanistan Inning 1"
+                  },
+                  {
+                        "r": 10,
+                        "w": 0,
+                        "o": 2.4,
+                        "inning": "Sri Lanka Inning 1"
+                  }
+            ],
+            "series_id": "45960313-9d8d-4a3c-b9a1-36e621579382",
+            "fantasyEnabled": true,
+            "bbbEnabled": true,
+            "hasSquad": true,
+            "matchStarted": true,
+            "matchEnded": false
+      },
+      {
+            "id": "122e7dbf-461a-4192-a049-7a0a1319d2ab",
+            "name": "Warriors vs Knights, 3rd Match",
+            "matchType": "t20",
+            "status": "No result due to bad weather",
+            "venue": "Senwes Park, Potchefstroom",
+            "date": "2022-10-18",
+            "dateTimeGMT": "2022-10-18T12:30:00",
+            "teams": [
+                  "Warriors",
+                  "Knights"
+            ],
+            "teamInfo": [
+                  {
+                        "name": "Knights",
+                        "shortname": "KNG",
+                        "img": "https://g.cricapi.com/img/teams/40-637992688759741358.webp"
+                  },
+                  {
+                        "name": "Warriors",
+                        "shortname": "WAR",
+                        "img": "https://g.cricapi.com/img/teams/98-637987556857963180.webp"
+                  }
+            ],
+            "score": [
+                  {
+                        "r": 134,
+                        "w": 9,
+                        "o": 20,
+                        "inning": "Warriors Inning 1"
+                  },
+                  {
+                        "r": 21,
+                        "w": 3,
+                        "o": 2.5,
+                        "inning": "Knights Inning 1"
+                  }
+            ],
+            "series_id": "58a2c451-c43a-4a7b-b2bc-f228727a4361",
+            "fantasyEnabled": true,
+            "bbbEnabled": true,
+            "hasSquad": true,
+            "matchStarted": true,
+            "matchEnded": false
+      },
+      {
+            "id": "5f45b121-d1bc-4bcf-bf9e-85c284a0c629",
+            "name": "India Legends vs Bangladesh Legends, 18th Match",
+            "matchType": "t20",
+            "status": "No result (due to rain)",
+            "venue": "Rajiv Gandhi International Cricket Stadium, Dehradun",
+            "date": "2022-09-25",
+            "dateTimeGMT": "2022-09-25T14:00:00",
+            "teams": [
+                  "India Legends",
+                  "Bangladesh Legends"
+            ],
+            "teamInfo": [
+                  {
+                        "name": "Bangladesh Legends",
+                        "shortname": "BANL",
+                        "img": "https://g.cricapi.com/img/teams/113-637877074428390754.webp"
+                  },
+                  {
+                        "name": "India Legends",
+                        "shortname": "INDL",
+                        "img": "https://g.cricapi.com/img/teams/182-637877066629867095.webp"
+                  }
+            ],
+            "score": [
+                  {
+                        "r": 121,
+                        "w": 9,
+                        "o": 20,
+                        "inning": "Bangladesh Legends Inning 1"
+                  },
+                  {
+                        "r": 29,
+                        "w": 1,
+                        "o": 4,
+                        "inning": "India Legends Inning 1"
+                  }
+            ],
+            "series_id": "aa322c91-59b8-4aa3-81ca-69eede967062",
+            "fantasyEnabled": true,
+            "bbbEnabled": true,
+            "hasSquad": true,
+            "matchStarted": true,
+            "matchEnded": false
+      },
+      {
+            "id": "de615aa5-d9f6-4fab-8e06-f3ff1088162e",
+            "name": "India Legends vs New Zealand Legends, 12th Match",
+            "matchType": "t20",
+            "status": "New Zealand Legends opt to bowl",
+            "venue": "Holkar Cricket Stadium, Indore",
+            "date": "2022-09-19",
+            "dateTimeGMT": "2022-09-19T14:00:00",
+            "teams": [
+                  "India Legends",
+                  "New Zealand Legends"
+            ],
+            "teamInfo": [
+                  {
+                        "name": "India Legends",
+                        "shortname": "INDL",
+                        "img": "https://g.cricapi.com/img/teams/182-637877066629867095.webp"
+                  },
+                  {
+                        "name": "New Zealand Legends",
+                        "shortname": "NWL",
+                        "img": "https://g.cricapi.com/img/teams/2361-637987552926593253.webp"
+                  }
+            ],
+            "score": [
+                  {
+                        "r": 49,
+                        "w": 1,
+                        "o": 5.5,
+                        "inning": "India Legends Inning 1"
+                  }
+            ],
+            "series_id": "aa322c91-59b8-4aa3-81ca-69eede967062",
+            "fantasyEnabled": true,
+            "bbbEnabled": true,
+            "hasSquad": true,
+            "matchStarted": true,
+            "matchEnded": false
+      },
+      {
+            "id": "75969186-1455-43fb-8746-df83e8308028",
+            "name": "Chepauk Super Gillies vs Lyca Kovai Kings, Final",
+            "matchType": "t20",
+            "status": "No result (rain) - CSG and LKK joint-winners",
+            "venue": "SNR College Cricket Ground, Coimbatore",
+            "date": "2022-07-31",
+            "dateTimeGMT": "2022-07-31T13:45:00",
+            "teams": [
+                  "Chepauk Super Gillies",
+                  "Lyca Kovai Kings"
+            ],
+            "teamInfo": [
+                  {
+                        "name": "Chepauk Super Gillies",
+                        "shortname": "CSG",
+                        "img": "https://g.cricapi.com/img/teams/136-637957472174708637.webp"
+                  },
+                  {
+                        "name": "Lyca Kovai Kings",
+                        "shortname": "LKK",
+                        "img": "https://g.cricapi.com/img/teams/216-637940203986869942.webp"
+                  }
+            ],
+            "score": [
+                  {
+                        "r": 138,
+                        "w": 9,
+                        "o": 17,
+                        "inning": "Lyca Kovai Kings Inning 1"
+                  },
+                  {
+                        "r": 14,
+                        "w": 2,
+                        "o": 4,
+                        "inning": "Chepauk Super Gillies Inning 1"
+                  }
+            ],
+            "series_id": "41bcbe72-ee4b-454c-90eb-fc68798e383a",
+            "fantasyEnabled": true,
+            "bbbEnabled": false,
+            "hasSquad": true,
+            "matchStarted": true,
+            "matchEnded": false
+      },
+      {
+            "id": "b4255c07-0b2d-4c3c-a0d3-45f2f5eadcd3",
+            "name": "New Zealand vs England, 2nd Test",
+            "matchType": "test",
+            "status": "Day 1: 3rd Session - New Zealand opt to bowl",
+            "venue": "Basin Reserve, Wellington",
+            "date": "2023-02-23",
+            "dateTimeGMT": "2023-02-23T22:00:00",
+            "teams": [
+                  "New Zealand",
+                  "England"
+            ],
+            "teamInfo": [
+                  {
+                        "name": "England",
+                        "shortname": "ENG",
+                        "img": "https://g.cricapi.com/img/teams/23-637877072894080569.webp"
+                  },
+                  {
+                        "name": "New Zealand",
+                        "shortname": "NZ",
+                        "img": "https://g.cricapi.com/img/teams/57-637877076980737903.webp"
+                  }
+            ],
+            "score": [
+                  {
+                        "r": 257,
+                        "w": 3,
+                        "o": 57,
+                        "inning": "England Inning 1"
+                  }
+            ],
+            "series_id": "08aec6c1-125f-40b9-8bdf-1891016a9008",
+            "fantasyEnabled": true,
+            "bbbEnabled": false,
+            "hasSquad": true,
+            "matchStarted": true,
+            "matchEnded": false
+      },
+      {
+            "id": "df119824-7fba-4a7c-8493-716e21c74eaf",
+            "name": "New Zealand vs India, 3rd ODI",
+            "matchType": "odi",
+            "status": "No Result - due to rain",
+            "venue": "Hagley Oval, Christchurch",
+            "date": "2022-11-30",
+            "dateTimeGMT": "2022-11-30T01:30:00",
+            "teams": [
+                  "New Zealand",
+                  "India"
+            ],
+            "teamInfo": [
+                  {
+                        "name": "India",
+                        "shortname": "IND",
+                        "img": "https://g.cricapi.com/img/teams/31-637877061080567215.webp"
+                  },
+                  {
+                        "name": "New Zealand",
+                        "shortname": "NZ",
+                        "img": "https://g.cricapi.com/img/teams/57-637877076980737903.webp"
+                  }
+            ],
+            "score": [
+                  {
+                        "r": 219,
+                        "w": 10,
+                        "o": 47.3,
+                        "inning": "India Inning 1"
+                  },
+                  {
+                        "r": 104,
+                        "w": 1,
+                        "o": 18,
+                        "inning": "New Zealand Inning 1"
+                  }
+            ],
+            "series_id": "9f39bdef-28d1-4d93-8dae-2032e5cd1b2e",
+            "fantasyEnabled": true,
+            "bbbEnabled": true,
+            "hasSquad": true,
+            "matchStarted": true,
+            "matchEnded": false
+      },
+      {
+            "id": "d15fa8db-8658-4aa0-b2f0-36c253d9ef05",
+            "name": "New Zealand vs India, 3rd T20I",
+            "matchType": "t20",
+            "status": "Match tied (Teams score level on DLS method)",
+            "venue": "McLean Park, Napier",
+            "date": "2022-11-22",
+            "dateTimeGMT": "2022-11-22T06:30:00",
+            "teams": [
+                  "New Zealand",
+                  "India"
+            ],
+            "teamInfo": [
+                  {
+                        "name": "India",
+                        "shortname": "IND",
+                        "img": "https://g.cricapi.com/img/teams/31-637877061080567215.webp"
+                  },
+                  {
+                        "name": "New Zealand",
+                        "shortname": "NZ",
+                        "img": "https://g.cricapi.com/img/teams/57-637877076980737903.webp"
+                  }
+            ],
+            "score": [
+                  {
+                        "r": 160,
+                        "w": 10,
+                        "o": 19.4,
+                        "inning": "New Zealand Inning 1"
+                  },
+                  {
+                        "r": 75,
+                        "w": 4,
+                        "o": 9,
+                        "inning": "India Inning 1"
+                  }
+            ],
+            "series_id": "9f39bdef-28d1-4d93-8dae-2032e5cd1b2e",
+            "fantasyEnabled": true,
+            "bbbEnabled": true,
+            "hasSquad": true,
+            "matchStarted": true,
+            "matchEnded": false
+      }
+]
